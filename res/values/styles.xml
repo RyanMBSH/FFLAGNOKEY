@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorBackground">#ff080808</item>
+        <item name="android:buttonStyle">@style/AppButton</item>
+        <item name="android:windowBackground">#ff080808</item>
+        <item name="android:checkboxStyle">@style/AppCheckBox</item>
+        <item name="android:textColor">#ffeeeeee</item>
+        <item name="android:colorControlNormal">#ff555555</item>
+        <item name="android:colorControlActivated">#ffaaaaaa</item>
+        <item name="android:colorControlHighlight">#ff222222</item>
+        <item name="android:switchStyle">@style/AppSwitch</item>
+        <item name="android:statusBarColor">#ff080808</item>
+        <item name="android:navigationBarColor">#ff080808</item>
+    </style>
+    <style name="AppCheckBox" parent="@android:style/Widget.Material.CompoundButton.CheckBox">
+        <item name="android:colorControlNormal">#ff444444</item>
+        <item name="android:colorControlActivated">#ffaaaaaa</item>
+    </style>
+    <style name="AppSwitch" parent="@android:style/Widget.Material.CompoundButton.Switch">
+        <item name="android:colorControlNormal">#ff333333</item>
+        <item name="android:colorControlActivated">#ff888888</item>
+    </style>
+    <style name="AppButton" parent="@android:style/Widget.Material.Button">
+        <item name="android:textColor">#ffcccccc</item>
+        <item name="android:background">@drawable/bg_btn_cancel</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>

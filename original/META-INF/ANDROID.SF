@@ -1,0 +1,68 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: zkv8TUPWP8eROJ+npzPNo5Rt20LUQ7ewZwBpK8FxND4=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: hAAjVQHVFH1ZaWJiRVYAxrW3boDb4z1OwzFxTy1Jfhs=
+
+Name: classes.dex
+SHA-256-Digest: 2/iQ48WGg/KPxuEnvKIMdvafvLL3ZwoWjqBHX6s9nVw=
+
+Name: lib/arm64-v8a/libbeykix.so
+SHA-256-Digest: 5zA7mRRctCHCjIY6Gv2x4sDxD3pEs8tato2SHtzV+lQ=
+
+Name: lib/arm64-v8a/libbeykixvm.so
+SHA-256-Digest: W3/cuFld6QwQbAeEBnggasIoUnq3iq55fTFDuwfsvwg=
+
+Name: lib/armeabi-v7a/libbeykix.so
+SHA-256-Digest: 7LBfWWU0Bk4MkRTQQXAr48YvpzrH5GCOXZq45myTyL8=
+
+Name: lib/armeabi-v7a/libbeykixvm.so
+SHA-256-Digest: 0/8Y5ej+xuovY5miWdH1f0a6CoFfPyKc8VwAzh+hRAg=
+
+Name: res/drawable/bg_btn_cancel.xml
+SHA-256-Digest: l5FkH9RxVBEuxNM/9pe8cbu3koCREs9u2EqDuoALhz0=
+
+Name: res/drawable/bg_btn_green.xml
+SHA-256-Digest: 2/qP+3BcjgFW+PxiI7vMn++8HcdOrZHxCIYeftPjYMk=
+
+Name: res/drawable/bg_btn_red.xml
+SHA-256-Digest: Anf2p4KCmpUYZcAmh/SQekOp1G43K6E4YksnA4ybqYk=
+
+Name: res/drawable/bg_card.xml
+SHA-256-Digest: 0XugGhl49XDuBma8KDAcUoJwZ0VOytea7cmEgo8kDvo=
+
+Name: res/drawable/bg_input.xml
+SHA-256-Digest: ANtfSbCwF+GiNP6ZVyzdeQMjQ/e8EPebZVGIQa4uwVE=
+
+Name: res/drawable/divider.xml
+SHA-256-Digest: b+pzzr1CsN1x7YUdlHL+gWWTwMoazkOi3ddimXaIBA4=
+
+Name: res/drawable/dot_green.xml
+SHA-256-Digest: wDhWtvGa2Ah0M8b0k0sKHcQfBdPAZg88uib4g/DIjMk=
+
+Name: res/drawable/dot_grey.xml
+SHA-256-Digest: 5HlVrgoLRIPS+el89BnsK0V6ATd7vNUH2sEKtnFg1NM=
+
+Name: res/drawable/dot_red.xml
+SHA-256-Digest: piwwwIEND3h4n8XF6ydqahAq7GKfq265B2VAgEoVdTM=
+
+Name: res/drawable/switch_thumb.xml
+SHA-256-Digest: 8AO+55obzCdMyetXMZf3QtH2YBvbDHmaFtAsXH72lhg=
+
+Name: res/drawable/switch_track.xml
+SHA-256-Digest: 0vDTf1TiQao+9w93nVZaxAGlyBcZa09c8g2Cwvx2nM8=
+
+Name: res/drawable/switch_track_off.xml
+SHA-256-Digest: +7cDtpeVVdSKQ9L493a+vI/g8Lv4DsNgorfcGxpM58k=
+
+Name: res/drawable/switch_track_on.xml
+SHA-256-Digest: OeJIeHM+9fzFUw46FiRs5xvQXoizac2AE8ojoUTN8Go=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: B1fLv0fXLmR6UvUhNGceLJjRa9lScGa9jVzY880rWcM=
+
+Name: resources.arsc
+SHA-256-Digest: sjppJKkx1O+SKgd0fzpnjZhQNXgGDHWFnMtRlsCaSHU=
+

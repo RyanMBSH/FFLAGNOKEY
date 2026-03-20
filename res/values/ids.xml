@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="dot_server" />
+    <item type="id" name="tv_server_status" />
+    <item type="id" name="btn_retry_server" />
+    <item type="id" name="dot_key" />
+    <item type="id" name="tv_key_value" />
+    <item type="id" name="tv_key_expiry" />
+    <item type="id" name="btn_change_key" />
+    <item type="id" name="dot_engine" />
+    <item type="id" name="tv_status" />
+    <item type="id" name="tv_engine_desc" />
+    <item type="id" name="tv_tunnel_ip" />
+    <item type="id" name="btn_engine_toggle" />
+    <item type="id" name="btn_ff_normal" />
+    <item type="id" name="btn_ff_max" />
+    <item type="id" name="sw_vpn" />
+    <item type="id" name="cb_btn_login" />
+    <item type="id" name="cb_btn_vpnswap" />
+    <item type="id" name="cb_btn_ninja" />
+    <item type="id" name="cb_btn_freeze" />
+    <item type="id" name="cb_btn_invis" />
+    <item type="id" name="cb_btn_freezev2" />
+    <item type="id" name="et_step_teleport" />
+    <item type="id" name="cb_btn_teleport" />
+    <item type="id" name="et_step_teleportv2" />
+    <item type="id" name="cb_btn_teleportv2" />
+    <item type="id" name="et_config_name" />
+    <item type="id" name="btn_config_save" />
+    <item type="id" name="tv_config_empty" />
+    <item type="id" name="ll_config_list" />
+    <item type="id" name="dot_vpn" />
+    <item type="id" name="tv_vpn_status" />
+    <item type="id" name="cb_vpn" />
+    <item type="id" name="dot_overlay" />
+    <item type="id" name="tv_overlay_status" />
+    <item type="id" name="cb_overlay" />
+    <item type="id" name="dot_notif" />
+    <item type="id" name="tv_notif_status" />
+    <item type="id" name="cb_notif" />
+    <item type="id" name="dot_storage" />
+    <item type="id" name="tv_storage_status" />
+    <item type="id" name="cb_storage" />
+</resources>

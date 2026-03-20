@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.fakelag.beta3" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:maxSdkVersion="28" android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:maxSdkVersion="32" android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    <application android:allowBackup="true" android:debuggable="true" android:label="Fake Ninja Beta V3" android:theme="@style/AppTheme">
+        <activity android:exported="true" android:finishOnTaskLaunch="false" android:name="com.fakelag.reborn.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <service android:exported="false" android:foregroundServiceType="dataSync" android:name="com.fakelag.reborn.FakeLagReborn1" android:permission="android.permission.BIND_VPN_SERVICE" android:stopWithTask="false">
+            <intent-filter>
+                <action android:name="android.net.VpnService"/>
+            </intent-filter>
+        </service>
+        <service android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="false" android:foregroundServiceType="dataSync" android:name="com.fakelag.reborn.FakeLagReborn2" android:stopWithTask="false"/>
+        <service android:exported="false" android:foregroundServiceType="dataSync" android:name="com.fakelag.reborn.FakeLagReborn5" android:permission="android.permission.BIND_VPN_SERVICE" android:stopWithTask="false">
+            <intent-filter>
+                <action android:name="android.net.VpnService"/>
+            </intent-filter>
+        </service>
+    </application>
+</manifest>
